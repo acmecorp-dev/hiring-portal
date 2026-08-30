@@ -1,1 +1,1 @@
-Co-authored-by: Platform Dev <platform-dev@acmecorp.io>
+Authored by: Platform Dev <platform-dev@acmecorp.io>
