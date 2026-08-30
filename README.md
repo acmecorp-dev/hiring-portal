@@ -1,1 +1,1 @@
-Author to this repo: platform-dev@acmecorp.io
+Co-authored-by: Platform Dev <platform-dev@acmecorp.io>
